@@ -1,4 +1,4 @@
-# Bug: [Android] NavigationPage.HasNavigationBar="False" doesn't work with TabbedPage
+# [Android] NavigationPage.HasNavigationBar="False" doesn't work with TabbedPage
 
 Hiding the navigation bar of a NavigationPage by setting `NavigationPage.HasNavigationBar="False"` doesn't work on Android  when the root page of the NavigationPage is set to a TabbedPage:
 
